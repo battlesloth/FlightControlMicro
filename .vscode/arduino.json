@@ -1,0 +1,6 @@
+{
+    "sketch": "src\\FlightControl.ino",
+    "output": "build",
+    "board": "adafruit:samd:adafruit_metro_m0",
+    "port": "COM6"
+}
